@@ -68,7 +68,7 @@ class Solution8 {
                 }
             }
         }
-
+        
         return num_islands;
     }
 }
